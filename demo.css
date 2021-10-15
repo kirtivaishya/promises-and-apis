@@ -1,0 +1,20 @@
+.source {
+    width: 200px;
+    height: 200px;
+    font-size: 50px;
+    background-color: gray;
+    margin: 20px;
+}
+
+#target {
+    background-color: bisque;
+    width: 200px;
+    height: 400px;
+    margin: 20px;
+}
+
+.container {
+    width: 500px;
+    background-color: lightblue;
+}
+
